@@ -10,7 +10,7 @@ The following is a picture of the Windows application interface:
 
 ![image](https://github.com/user-attachments/assets/9f1b84fc-d1b0-4c6b-b3e9-8a2142f6f63e)
 
-System setup:
+Andoriod application interface and System setup:
 
 ![image](https://github.com/user-attachments/assets/9ab5781c-f005-4fab-a428-13baaa9837e1)
 
