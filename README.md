@@ -2,7 +2,17 @@
 
 A new Flutter application.
 (only android)
-The app is capable to connect with arduio through Bluetooth and send commands
+The app is a Flutter based application for Windows and Android that capable to connect with arduio through Bluetooth and send commands
+
+A user friendly application that the user can interact with to pick a device to connect to.
+
+The following is a picture of the Windows application interface:
+
+![image](https://github.com/user-attachments/assets/9f1b84fc-d1b0-4c6b-b3e9-8a2142f6f63e)
+
+System setup:
+
+![image](https://github.com/user-attachments/assets/9ab5781c-f005-4fab-a428-13baaa9837e1)
 
 ## Getting Started
 
